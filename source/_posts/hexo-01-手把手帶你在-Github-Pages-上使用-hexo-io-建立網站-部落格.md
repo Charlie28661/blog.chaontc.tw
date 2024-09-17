@@ -1,5 +1,5 @@
 ---
-title: [hexo 01] 手把手帶你在 Github Pages 上使用 hexo.io 建立網站/部落格
+title: '[hexo 01] 手把手帶你在 Github Pages 上使用 hexo.io 建立網站/部落格'
 date: 2024-9-17
 tags: Develope
 ---
