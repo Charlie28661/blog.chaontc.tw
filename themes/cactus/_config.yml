@@ -135,7 +135,10 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: atom.xml
+rss:
+  enable: true
+  template: "themes/cactus/layout/rss.ejs"
+  output: "rss.xml"
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
