@@ -1,7 +1,7 @@
 ---
 title: '[hexo 01] 手把手帶你在 Github Pages 上使用 hexo.io 建立網站/部落格'
 date: 2024-09-17 22:02:27
-tags:
+tags: Develope
 ---
 
 ## 環境安裝
@@ -45,7 +45,7 @@ tags:
     
 - 目前資料夾大概會長得像以下這樣
     
-    ![image](https://hackmd.io/_uploads/rku6xaLTA.png)
+![image](https://hackmd.io/_uploads/rku6xaLTA.png)
 
     - node_modules:
         - 這個就是我們安裝的套件包，不太需要理會
