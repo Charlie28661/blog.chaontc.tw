@@ -52,7 +52,7 @@ tags: Develope
     hexo s
     ```
 
-- 確認沒問題後就可以部屬了，如何部屬到 Github Pages 可以看我上一篇教學
+- 確認沒問題後就可以部署了，如何部署到 Github Pages 可以看我上一篇教學
 
 - 接著我們要來新增 RSS 啦 !
 
@@ -109,7 +109,7 @@ tags: Develope
     output: "rss.xml"
     ```
     
-- 接著就可以重新部屬了
+- 接著就可以重新部署了
  
     ```bash=
     hexo g 

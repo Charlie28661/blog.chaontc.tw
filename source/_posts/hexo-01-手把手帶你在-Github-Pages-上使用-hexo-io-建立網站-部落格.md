@@ -108,11 +108,11 @@ tags: Develope
 - 網站只要有更新都需要使用 hexo g
 - hexo s 是讓他運行起來
     
-### 部屬到 Github Pages
+### 部署到 Github Pages
 
-- 確保相關設定都正確的話就可以來部屬上雲啦 !
+- 確保相關設定都正確的話就可以來部署上雲啦 !
     
-- 在部屬前請先確保有 Github 帳號
+- 在部署前請先確保有 Github 帳號
     
 - 創立一個新的 repositories 如果要使用 Github 的 domain 請將 repositories 的名字取為
     ```<你的 GitHub 名字>.github.io```
@@ -182,6 +182,6 @@ jobs:
     
 - 可以使用 node --version 查看
     
-- 完成後等待 Github Action 部屬完成就可以訪問了 !
+- 完成後等待 Github Action 部署完成就可以訪問了 !
     
 > 下一篇會教怎麼更換成自己喜歡的主題還有新增 RSS
