@@ -70,7 +70,7 @@ tags: Network
 
 ![image](https://hackmd.io/_uploads/BkNCfVMG1g.png)
 
-* 點選內容
+* 點選共用
 
 ![image](https://hackmd.io/_uploads/rJSlXVff1e.png)
 
