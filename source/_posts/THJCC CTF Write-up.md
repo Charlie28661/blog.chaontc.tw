@@ -1,5 +1,5 @@
 ---
-title: THJCC CTF Write-up
+title: THJCC CTF write-up
 date: 2024-05-05
 tags: CTF
 ---
