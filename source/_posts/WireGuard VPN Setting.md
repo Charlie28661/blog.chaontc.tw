@@ -43,7 +43,7 @@ tags: Network
     [Peer]
     PublicKey = <Server`s PublicKey>
     AllowedIPs = 0.0.0.0/0
-    Endpoints = <Server`s Public IP>:51820
+    Endpoint = <Server`s Public IP>:51820
     ```
     
 * 如果想要限制哪些IP可以連線，請更改 ```AllowedIPs```
