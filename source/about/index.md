@@ -61,8 +61,8 @@ date: 2024-09-17 15:17:57
 <hr>
 
 # Community Contribution
-- 總召 @ 2025 SCAICT Winter Camp
 - 記錄組 @ SITCON (Mar. 8, 2025)
+- 總召 @ 2024 SCAICT Winter Camp
 - 場務組 @ SITCON (Mar. 9, 2024)
 <hr>
 
