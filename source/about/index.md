@@ -12,7 +12,7 @@ date: 2024-09-17 15:17:57
 <hr>
 
 # Professional Roles
-- Leader and Founder @ OhYeahSec (Feb. 2025 ~ Present)
+- Co-Founder @ OhYeahSec (Feb. 2025 ~ Present)
 - Member @ B33F 50UP / NCKUCTF (Apr. 2024 ~ Present)
 - President @ Student Club's Association of Information in Central Taiwan (Sep. 2023 ~ Sep. 2024)
 - IT Group @ Student Club's Association of Information in Central Taiwan (Sep. 2022 ~ Sep. 2023)
@@ -20,7 +20,7 @@ date: 2024-09-17 15:17:57
 
 # Work Experience
 - Freelance
-- NICS (Apr. 2025 ~ Present)
+- NICS (Apr. 2025 ~ Aug. 2025)
 <hr>
 
 # Specialized Training
@@ -47,6 +47,7 @@ date: 2024-09-17 15:17:57
 
 
 # Lecturing Experience
+- Teaching Assistant @ AIS3 Junior (Aug. 9, 2025 ~ Aug. 13, 2025)
 - Web Security Lecturer @ 嘉義高中資訊研究社 (Mar. 2025 ~ Apr. 2025)
 - Teaching Assistant @ SITCON HoC (Dec. 17, 2023)
 - Teaching Assistant @ AIS3 Junior (Aug. 15, 2023 ~ Aug. 18, 2023)
